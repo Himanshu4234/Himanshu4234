@@ -1,35 +1,16 @@
-# 💫 About Me:
-👋 Hi, I'm **Himanshu Singh Chauhan** – a frontend developer passionate about building clean, responsive, and user-focused web applications.<br>  
-💻 I work primarily with JavaScript, React, and modern frontend tools, and I'm currently exploring backend development to become a full-stack engineer.<br>  
-🚀 Always learning, always building.
+![Himanshu Singh Chauhan, frontend developer: intro](./assets/hero.svg?v=1)
+![About: what I do best and life off the clock](./assets/about-life.svg?v=1)
+![My tech stack](./assets/stack.svg?v=1)
+![Developer ID card with verified stats](./assets/id-dashboard.svg?v=1)
+![Let's connect](./assets/connect.svg?v=1)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-chauhan-6828b116a/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshuchauhan85.hc@gmail.com)
+## Projects
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Shopperce.ai](https://shopperce.ai/) | Multi-tenant eCommerce platform: 20+ storefronts from one React.js codebase, white-label theming and Razorpay payments. | React.js, Next.js, TypeScript, Redux, TanStack Query, Razorpay |
+| [NextLeap IT Solutions](https://nextleapitsolutions.netlify.app/) | Mobile-first corporate website, validated on 15+ devices, deployed with Netlify CI/CD preview environments. | React.js, Next.js, TypeScript, Netlify |
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu4234&theme=react&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Himanshu4234&theme=react&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu4234&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+## Find me online
 
-### ✍️ Random Dev Quote
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><br/>
-</div>
+[LinkedIn](https://www.linkedin.com/in/himanshu-singh-chauhan-6828b116a) | [Instagram](https://www.instagram.com/himanshu_chauhan0107) | [Portfolio](https://himanshusinghchauhanportfolio.netlify.app) | [Email](mailto:himanshuchauhan85.hc@gmail.com)

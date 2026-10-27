@@ -2,15 +2,19 @@
 ![About: what I do best and life off the clock](./assets/about-life.svg?v=1)
 ![My tech stack](./assets/stack.svg?v=1)
 ![Developer ID card with verified stats](./assets/id-dashboard.svg?v=1)
-![Let's connect](./assets/connect.svg?v=1)
+<a href="https://himanshusinghchauhanportfolio.netlify.app"><img src="./assets/connect.svg?v=2" alt="Let's connect" width="100%"></a>
 
-## Projects
+<p align="center">
+<a href="https://www.linkedin.com/in/himanshu-singh-chauhan-6828b116a"><img src="./assets/card-linkedin.svg?v=1" alt="LinkedIn" width="48%"></a>
+<a href="https://www.instagram.com/himanshu_chauhan0107"><img src="./assets/card-instagram.svg?v=1" alt="Instagram" width="48%"></a>
+</p>
+<p align="center">
+<a href="https://himanshusinghchauhanportfolio.netlify.app"><img src="./assets/card-portfolio.svg?v=1" alt="Portfolio" width="48%"></a>
+<a href="mailto:himanshuchauhan85.hc@gmail.com"><img src="./assets/card-email.svg?v=1" alt="Email" width="48%"></a>
+</p>
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [Shopperce.ai](https://shopperce.ai/) | Multi-tenant eCommerce platform: 20+ storefronts from one React.js codebase, white-label theming and Razorpay payments. | React.js, Next.js, TypeScript, Redux, TanStack Query, Razorpay |
-| [NextLeap IT Solutions](https://nextleapitsolutions.netlify.app/) | Mobile-first corporate website, validated on 15+ devices, deployed with Netlify CI/CD preview environments. | React.js, Next.js, TypeScript, Netlify |
+<a href="https://himanshusinghchauhanportfolio.netlify.app"><img src="./assets/projects-header.svg?v=1" alt="Projects: work I've shipped" width="100%"></a>
 
-## Find me online
+<a href="https://shopperce.ai/"><img src="./assets/project-shopperce.svg?v=1" alt="Shopperce.ai: multi-tenant eCommerce platform" width="100%"></a>
 
-[LinkedIn](https://www.linkedin.com/in/himanshu-singh-chauhan-6828b116a) | [Instagram](https://www.instagram.com/himanshu_chauhan0107) | [Portfolio](https://himanshusinghchauhanportfolio.netlify.app) | [Email](mailto:himanshuchauhan85.hc@gmail.com)
+<a href="https://nextleapitsolutions.netlify.app/"><img src="./assets/project-nextleap.svg?v=1" alt="NextLeap IT Solutions: corporate website" width="100%"></a>
